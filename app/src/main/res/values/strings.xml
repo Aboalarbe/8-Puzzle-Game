@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">8 Puzzle</string>
+    <string name="time">Time</string>
+    <string name="moves">Moves</string>
+    <string name="play">Play</string>
+    <string name="reset">Reset</string>
+    <string name="win">Congratulations, You Win!</string>
+
+    <!--Strings for Content Description -->
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="blank">blank</string>
+    <!--Strings for Content Description -->
+
+
+
+
+
+
+
+
+
+    <!--Strings for Content Description -->
+
+</resources>
